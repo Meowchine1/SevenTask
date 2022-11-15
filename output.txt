@@ -1,0 +1,4 @@
+data\dir1\txt2.txt 0x3509 
+data\dir1\txt7.txt 0x6473 
+data\dir2\txt4.txt 0x1674 
+data\txt1.txt 0x36cc 
